@@ -1,0 +1,92 @@
+N=10
+Translating circle N = 10  M = 10  T = 1.000000  p = 4 
+l2 error = 1.8065845852
+Translating circle N = 10  M = 20  T = 1.000000  p = 4 
+l2 error = 0.9770290221
+Translating circle N = 10  M = 40  T = 1.000000  p = 4 
+l2 error = 0.8379601893
+Translating circle N = 10  M = 80  T = 1.000000  p = 4 
+l2 error = 0.7851278187
+Translating circle N = 10  M = 160  T = 1.000000  p = 4 
+l2 error = 0.7599573292
+Translating circle N = 10  M = 320  T = 1.000000  p = 4 
+l2 error = 0.6940982284
+Translating circle N = 10  M = 640  T = 1.000000  p = 4 
+l2 error = 0.6046923588
+N=20
+Translating circle N = 20  M = 10  T = 1.000000  p = 4 
+l2 error = 5.7307424694
+Translating circle N = 20  M = 20  T = 1.000000  p = 4 
+l2 error = 0.9144816533
+Translating circle N = 20  M = 40  T = 1.000000  p = 4 
+l2 error = 0.6563582049
+Translating circle N = 20  M = 80  T = 1.000000  p = 4 
+l2 error = 0.3490883176
+Translating circle N = 20  M = 160  T = 1.000000  p = 4 
+l2 error = 0.3316050273
+Translating circle N = 20  M = 320  T = 1.000000  p = 4 
+l2 error = 0.3457302284
+Translating circle N = 20  M = 640  T = 1.000000  p = 4 
+l2 error = 0.3350699321
+N=40
+Translating circle N = 40  M = 10  T = 1.000000  p = 4 
+l2 error = 5470617656835265536.0000000000
+Translating circle N = 40  M = 20  T = 1.000000  p = 4 
+l2 error = 0.9516044605
+Translating circle N = 40  M = 40  T = 1.000000  p = 4 
+l2 error = 0.8833175487
+Translating circle N = 40  M = 80  T = 1.000000  p = 4 
+l2 error = 0.4747729394
+Translating circle N = 40  M = 160  T = 1.000000  p = 4 
+l2 error = 0.1827038544
+Translating circle N = 40  M = 320  T = 1.000000  p = 4 
+l2 error = 0.1038378637
+Translating circle N = 40  M = 640  T = 1.000000  p = 4 
+l2 error = 0.1417068597
+N=80
+Translating circle N = 80  M = 10  T = 1.000000  p = 4 
+l2 error = 58360553.8965337202
+Translating circle N = 80  M = 20  T = 1.000000  p = 4 
+l2 error = 2198610731480407542754615230464.0000000000
+Translating circle N = 80  M = 40  T = 1.000000  p = 4 
+l2 error = 0.9206299565
+Translating circle N = 80  M = 80  T = 1.000000  p = 4 
+l2 error = 0.5974453616
+Translating circle N = 80  M = 160  T = 1.000000  p = 4 
+l2 error = 0.3515790990
+Translating circle N = 80  M = 320  T = 1.000000  p = 4 
+l2 error = 0.1728951081
+Translating circle N = 80  M = 640  T = 1.000000  p = 4 
+l2 error = 0.0627262132
+N=160
+Translating circle N = 160  M = 10  T = 1.000000  p = 4 
+l2 error = 6638168833.1816663742
+Translating circle N = 160  M = 20  T = 1.000000  p = 4 
+l2 error = 2208464433664185742018860030099456.0000000000
+Translating circle N = 160  M = 40  T = 1.000000  p = 4 
+l2 error = 1658952269082640008194591588649121402733499920675513579493127569454926321245527160700068731410233014878208.0000000000
+Translating circle N = 160  M = 80  T = 1.000000  p = 4 
+l2 error = 1118797738.0259966850
+Translating circle N = 160  M = 160  T = 1.000000  p = 4 
+l2 error = 0.3714589242
+Translating circle N = 160  M = 320  T = 1.000000  p = 4 
+l2 error = 0.2437353078
+Translating circle N = 160  M = 640  T = 1.000000  p = 4 
+l2 error = 0.1426305628
+
+N=10
+N=20
+N=40
+N=80
+N=160
+M=1280
+Translating circle N = 10  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.5495821141
+Translating circle N = 20  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.3001788094
+Translating circle N = 40  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.1521317815
+Translating circle N = 80  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.0497216743
+Translating circle N = 160  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.0718025976

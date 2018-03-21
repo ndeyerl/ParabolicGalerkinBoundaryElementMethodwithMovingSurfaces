@@ -1,0 +1,92 @@
+N=10
+Rotating Square N = 10  M = 10  T = 1.000000  p = 4 
+l2 error = 0.6291405635
+Rotating Square N = 10  M = 20  T = 1.000000  p = 4 
+l2 error = 0.5719844322
+Rotating Square N = 10  M = 40  T = 1.000000  p = 4 
+l2 error = 0.5312793532
+Rotating Square N = 10  M = 80  T = 1.000000  p = 4 
+l2 error = 0.5359853410
+Rotating Square N = 10  M = 160  T = 1.000000  p = 4 
+l2 error = 0.5462556075
+Rotating Square N = 10  M = 320  T = 1.000000  p = 4 
+l2 error = 0.5484711855
+Rotating Square N = 10  M = 640  T = 1.000000  p = 4 
+l2 error = 0.5534336023
+N=20
+Rotating Square N = 20  M = 10  T = 1.000000  p = 4 
+l2 error = 0.6566659753
+Rotating Square N = 20  M = 20  T = 1.000000  p = 4 
+l2 error = 0.4784463323
+Rotating Square N = 20  M = 40  T = 1.000000  p = 4 
+l2 error = 0.3662772941
+Rotating Square N = 20  M = 80  T = 1.000000  p = 4 
+l2 error = 0.3180561514
+Rotating Square N = 20  M = 160  T = 1.000000  p = 4 
+l2 error = 0.3150884791
+Rotating Square N = 20  M = 320  T = 1.000000  p = 4 
+l2 error = 0.3198152068
+Rotating Square N = 20  M = 640  T = 1.000000  p = 4 
+l2 error = 0.3227640595
+N=40
+Rotating Square N = 40  M = 10  T = 1.000000  p = 4 
+l2 error = 9.7771232816
+Rotating Square N = 40  M = 20  T = 1.000000  p = 4 
+l2 error = 0.5330972511
+Rotating Square N = 40  M = 40  T = 1.000000  p = 4 
+l2 error = 0.2761001443
+Rotating Square N = 40  M = 80  T = 1.000000  p = 4 
+l2 error = 0.1863462088
+Rotating Square N = 40  M = 160  T = 1.000000  p = 4 
+l2 error = 0.1642758322
+Rotating Square N = 40  M = 320  T = 1.000000  p = 4 
+l2 error = 0.1644236665
+Rotating Square N = 40  M = 640  T = 1.000000  p = 4 
+l2 error = 0.1675667778
+N=80
+Rotating Square N = 80  M = 10  T = 1.000000  p = 4 
+l2 error = 411749026.7188791037
+Rotating Square N = 80  M = 20  T = 1.000000  p = 4 
+l2 error = 2333.6898622213
+Rotating Square N = 80  M = 40  T = 1.000000  p = 4 
+l2 error = 0.5594303328
+Rotating Square N = 80  M = 80  T = 1.000000  p = 4 
+l2 error = 0.2002686284
+Rotating Square N = 80  M = 160  T = 1.000000  p = 4 
+l2 error = 0.1226739515
+Rotating Square N = 80  M = 320  T = 1.000000  p = 4 
+l2 error = 0.0892445909
+Rotating Square N = 80  M = 640  T = 1.000000  p = 4 
+l2 error = 0.0834168613
+N=160
+Rotating Square N = 160  M = 10  T = 1.000000  p = 4 
+l2 error = 4979897302826.2500000000
+Rotating Square N = 160  M = 20  T = 1.000000  p = 4 
+l2 error = 10409355036632360681472.0000000000
+Rotating Square N = 160  M = 40  T = 1.000000  p = 4 
+l2 error = 16526899858128.2421875000
+Rotating Square N = 160  M = 80  T = 1.000000  p = 4 
+l2 error = 0.8220488805
+Rotating Square N = 160  M = 160  T = 1.000000  p = 4 
+l2 error = 0.2287658160
+Rotating Square N = 160  M = 320  T = 1.000000  p = 4 
+l2 error = 0.1098319014
+Rotating Square N = 160  M = 640  T = 1.000000  p = 4 
+l2 error = 0.0678364911
+
+N=10
+N=20
+N=40
+N=80
+N=160
+M=1280
+Rotating Square N = 10  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.5652372946
+Rotating Square N = 20  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.3212251051
+Rotating Square N = 40  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.1693304375
+Rotating Square N = 80  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.0854257631
+Rotating Square N = 160  M = 1280  T = 1.000000  p = 4 
+l2 error = 0.0471633800
